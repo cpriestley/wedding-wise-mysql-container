@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+### security related tables ###
+ww-migration-security.sql
